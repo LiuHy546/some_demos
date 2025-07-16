@@ -1,0 +1,3 @@
+/mnt/c/Users/LIUHY/Desktop/output/output/test_proj/build/CMakeFiles/test_main.dir
+/mnt/c/Users/LIUHY/Desktop/output/output/test_proj/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/LIUHY/Desktop/output/output/test_proj/build/CMakeFiles/rebuild_cache.dir

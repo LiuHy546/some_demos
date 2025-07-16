@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_app.dir/test_app.c.o CMakeFiles/test_app.dir/special.c.o -o test_app  -Wl,-rpath,/mnt/c/Users/LIUHY/Desktop/test/build1 libmain.so 

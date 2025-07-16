@@ -1,0 +1,14 @@
+C:/Users/LIUHY/Desktop/output/output/cmake-build-debug/CMakeFiles/moduleA1a_obj.dir
+C:/Users/LIUHY/Desktop/output/output/cmake-build-debug/CMakeFiles/moduleA1b_obj.dir
+C:/Users/LIUHY/Desktop/output/output/cmake-build-debug/CMakeFiles/moduleA2a_obj.dir
+C:/Users/LIUHY/Desktop/output/output/cmake-build-debug/CMakeFiles/moduleA2b_obj.dir
+C:/Users/LIUHY/Desktop/output/output/cmake-build-debug/CMakeFiles/moduleB1a_obj.dir
+C:/Users/LIUHY/Desktop/output/output/cmake-build-debug/CMakeFiles/moduleB1b_obj.dir
+C:/Users/LIUHY/Desktop/output/output/cmake-build-debug/CMakeFiles/moduleB2a_obj.dir
+C:/Users/LIUHY/Desktop/output/output/cmake-build-debug/CMakeFiles/moduleB2b_obj.dir
+C:/Users/LIUHY/Desktop/output/output/cmake-build-debug/CMakeFiles/moduleC1a_obj.dir
+C:/Users/LIUHY/Desktop/output/output/cmake-build-debug/CMakeFiles/moduleC1b_obj.dir
+C:/Users/LIUHY/Desktop/output/output/cmake-build-debug/CMakeFiles/moduleC2a_obj.dir
+C:/Users/LIUHY/Desktop/output/output/cmake-build-debug/CMakeFiles/moduleC2b_obj.dir
+C:/Users/LIUHY/Desktop/output/output/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LIUHY/Desktop/output/output/cmake-build-debug/CMakeFiles/rebuild_cache.dir

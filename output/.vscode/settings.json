@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "modulea1b.h": "c",
+        "arith.h": "c"
+    }
+}

@@ -1,0 +1,4 @@
+/mnt/c/Users/LIUHY/Desktop/test/build_gcov/CMakeFiles/main.dir
+/mnt/c/Users/LIUHY/Desktop/test/build_gcov/CMakeFiles/test_app.dir
+/mnt/c/Users/LIUHY/Desktop/test/build_gcov/CMakeFiles/edit_cache.dir
+/mnt/c/Users/LIUHY/Desktop/test/build_gcov/CMakeFiles/rebuild_cache.dir

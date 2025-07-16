@@ -1,0 +1,8 @@
+add_subdirectory(moduleA)
+add_subdirectory(moduleB)
+add_subdirectory(moduleC)
+add_subdirectory(util)
+add_subdirectory(math)
+add_subdirectory(io)
+add_subdirectory(net)
+add_subdirectory(algo) 

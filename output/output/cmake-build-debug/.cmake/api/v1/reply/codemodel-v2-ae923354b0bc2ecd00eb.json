@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ComplexCProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "moduleA1a_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moduleA1a_obj-Debug-7ff16573de43560da89c.json",
+					"name" : "moduleA1a_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moduleA1b_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moduleA1b_obj-Debug-a5dc0292118e9b286bf6.json",
+					"name" : "moduleA1b_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moduleA2a_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moduleA2a_obj-Debug-be68257e21f20f1d2f57.json",
+					"name" : "moduleA2a_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moduleA2b_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moduleA2b_obj-Debug-14115ff7c632c793e322.json",
+					"name" : "moduleA2b_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moduleB1a_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moduleB1a_obj-Debug-6f2b204697dd23d6fe07.json",
+					"name" : "moduleB1a_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moduleB1b_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moduleB1b_obj-Debug-271edd32eca455367f66.json",
+					"name" : "moduleB1b_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moduleB2a_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moduleB2a_obj-Debug-2f7437c9c7d404196c8c.json",
+					"name" : "moduleB2a_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moduleB2b_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moduleB2b_obj-Debug-e73ee708a8f1102c59d8.json",
+					"name" : "moduleB2b_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moduleC1a_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moduleC1a_obj-Debug-6ff816f287dc22a68d7a.json",
+					"name" : "moduleC1a_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moduleC1b_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moduleC1b_obj-Debug-cb030fa189d50ac47056.json",
+					"name" : "moduleC1b_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moduleC2a_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moduleC2a_obj-Debug-8ce66542b6fa7f0908e0.json",
+					"name" : "moduleC2a_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "moduleC2b_obj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-moduleC2b_obj-Debug-a3b47a73b80e7e27cf3a.json",
+					"name" : "moduleC2b_obj",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/LIUHY/Desktop/output/output/cmake-build-debug",
+		"source" : "C:/Users/LIUHY/Desktop/output/output"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
