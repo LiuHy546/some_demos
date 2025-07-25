@@ -49,10 +49,15 @@ def parse_macros(code):
     return macros
 
 def parse_typedefs(code):
+    # 创建一个空字典，用于存储typedefs
     typedefs = {}
+    # 使用正则表达式查找code中的typedefs
     for m in re.finditer(r'typedef\s+([^;{]+?)\s+(\w+)\s*;', code):
+        # 获取typedefs的源类型和别名
         src, alias = m.groups()
+        # 将源类型进行清洗，并存储到字典中
         typedefs[alias] = clean_type(src)
+    # 返回字典
     return typedefs
 
 def parse_array_sizes(arr, macros):
